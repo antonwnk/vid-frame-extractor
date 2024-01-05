@@ -1,0 +1,19 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-g",
+            "-Wall",
+            "-Wextra",
+            "-I/usr/include/opencv4/opencv",
+            "-I/usr/include/opencv4",
+            "-Icxxopts",
+            "-o",
+            "main.o",
+            "main.cc"
+        ],
+        "directory": "/home/anton/funcode/opencv/extract_tabs",
+        "file": "main.cc"
+    }
+]
